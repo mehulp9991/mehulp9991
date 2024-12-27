@@ -34,7 +34,7 @@
 ---
 
 ## 🏆 Achievements
-- ✅ Automated end-to-end test coverage for a **50+ microservices architecture**, reducing manual testing time by 70%.
+- ✅ Automated end-to-end test coverage for reducing manual testing time by 70%.
 - ✅ Designed a **data-driven Selenium framework** that scaled across multiple projects.
 - ✅ Reduced test execution time by **40%** by implementing parallel test execution in cloud environments.
 
